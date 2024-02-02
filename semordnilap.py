@@ -1,5 +1,5 @@
 '''semordnilap'''
-
+# O(n*m) for both space and time complexity
 def semordnilap(words):
     # Write your code here.
     wordsl=set(words)
