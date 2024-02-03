@@ -1,5 +1,5 @@
 '''semordnilap'''
-# O(n*m) for both space and time complexity
+# O(n*m) for both space and time complexity, n number of the word, m is the length of longest word.
 def semordnilap(words):
     # Write your code here.
     wordsl=set(words)
